@@ -1,0 +1,58 @@
+Time = 4.06121371418974 mins
+Distance = 0.923434476182479 km
+Walking Distance = 0.143434476182479 km
+Vehicle Distance = 0.78 km
+
+Executoin Time = 0
+Time = 5.04439531842951 mins
+Distance = 0.885366276535792 km
+Walking Distance = 0.265366276535792 km
+Vehicle Distance = 0.62 km
+
+Executoin Time = 0
+Time = 4.42587456223166 mins
+Distance = 0.988822880185972 km
+Walking Distance = 0.208822880185972 km
+Vehicle Distance = 0.78 km
+Executoin Time = 0
+Time = 1.90008858820295 mins
+Distance = 0.403340715683579 km
+Walking Distance = 0.123340715683579 km
+Vehicle Distance = 0.28 km
+
+Executoin Time = 0
+Time = 4.60651559010587 mins
+Distance = 1.22887629917549 km
+Walking Distance = 0.178876299175489 km
+Vehicle Distance = 1.05 km
+
+Executoin Time = 0
+Time = 5.08963685832622 mins
+Distance = 1.24246973819385 km
+Walking Distance = 0.182469738193851 km
+Vehicle Distance = 1.06 km
+
+Executoin Time = 0
+Time = 5.18281918737713 mins
+Distance = 1.05190159894809 km
+Walking Distance = 0.271901598948095 km
+Vehicle Distance = 0.78 km
+
+Executoin Time = 0
+Time = 4.07653016627642 mins
+Distance = 0.804710847189702 km
+Walking Distance = 0.184710847189702 km
+Vehicle Distance = 0.62 km
+
+Executoin Time = 0
+Time = 4.57604976663517 mins
+Distance = 1.00133748055293 km
+Walking Distance = 0.221337480552931 km
+Vehicle Distance = 0.78 km
+
+Executoin Time = 0
+Time = 5.22574193610569 mins
+Distance = 1.02047849467547 km
+Walking Distance = 0.240478494675474 km
+Vehicle Distance = 0.78 km
+Executoin Time = 0

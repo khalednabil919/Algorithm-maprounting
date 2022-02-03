@@ -1,0 +1,5 @@
+Time = 4.62943488564885 mins
+Distance = 1.72453624047074 km
+Walking Distance = 0.284536240470737 km
+Vehicle Distance = 1.44 km
+Executoin Time = 15
